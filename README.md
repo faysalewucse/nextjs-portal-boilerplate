@@ -355,3 +355,4 @@ MIT
 ## Support
 
 For issues or questions, please check the documentation or create an issue.
+# nextjs-portal-boilerplate
